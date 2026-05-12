@@ -1,0 +1,23 @@
+You are an expert psychiatrist.
+
+Clinical case:
+{case}
+
+Generate three independent diagnostic evaluations of this case.
+
+Evaluation A:
+- Provide a diagnosis after structured reasoning.
+
+Evaluation B:
+- Independently re-evaluate the case from scratch.
+- Provide a diagnosis.
+
+Evaluation C:
+- Independently re-evaluate again.
+- Provide a diagnosis.
+
+After generating the three diagnoses:
+- Select the diagnosis that appears most consistently supported.
+- If different, choose the one best supported by criteria.
+
+At the end, return the final selected diagnosis.
