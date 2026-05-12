@@ -1,0 +1,19 @@
+You are a psychiatrist trained in DSM-5-TR and ICD-11.
+Below is a clinical case:
+{case}
+Think step by step:
+
+
+List all symptoms mentioned.
+
+
+Describe their duration, severity, and impact on daily functioning.
+
+
+Group symptoms into categories.
+
+
+Summarize the main clinical picture based on these observations.
+
+
+Finally, return a diagnosis.
