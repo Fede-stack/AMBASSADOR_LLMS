@@ -1,0 +1,9 @@
+You are an expert psychiatrist trained in DSM-5-TR and ICD-11 diagnostic criteria.
+
+Clinical case:
+{case}
+
+Based on the information provided, what is the single most probable psychiatric diagnosis?
+
+Return ONLY the diagnosis name.
+Do not include explanations, reasoning, comments, or additional text.
